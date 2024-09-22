@@ -1,7 +1,9 @@
 # Student-Management-Application
 Student Management App REST API Documentation
 
-Overview The Student Management App is a RESTful API designed to manage student data. It supports Create, Read, Update, and Delete (CRUD) operations and is built using modern technologies and tools, ensuring efficiency and scalability.
+Overview 
+
+The Student Management App is a RESTful API designed to manage student data. It supports Create, Read, Update, and Delete (CRUD) operations and is built using modern technologies and tools, ensuring efficiency and scalability.
 
 Tools and Technologies Used
 
@@ -12,6 +14,7 @@ MySQL: The relational database management system for storing student data.
 Swagger UI: For API documentation and testing.
 Hibernate: For Object-Relational Mapping (ORM) to interact with the database.
 Spring Tool Suite: The IDE used for development.
+
 Features
 
 !) CRUD Operations: Create, Read, Update, and Delete student records. 2) Validation: Backend validation to ensure data integrity. 3) API Documentation: Comprehensive API documentation using Swagger UI.
